@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "123195621999",
+    "project_id": "mycatshop-e7066",
+    "storage_bucket": "mycatshop-e7066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123195621999:android:3baed6754e458434f6039a",
+        "android_client_info": {
+          "package_name": "com.bugs.mycatshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123195621999-ph0fd7icjildnbgehohmm339snpv9q3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bugs.mycatshop",
+            "certificate_hash": "2ea88d2a8c62cecc975112f2b6ccf0058658a188"
+          }
+        },
+        {
+          "client_id": "123195621999-qpf90si4jpu39ua67ve3uapdv0q6loot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDrALgCbUBSR_3MwKoW2fs5Zas6WBCyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123195621999-qpf90si4jpu39ua67ve3uapdv0q6loot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

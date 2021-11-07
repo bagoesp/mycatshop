@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyCatShop</string>
+
+    <string name="err_msg_first_name">Please enter first name</string>
+    <string name="err_msg_last_name">Please enter last name</string>
+    <string name="err_msg_email">Please enter email</string>
+    <string name="err_msg_password">Please enter password</string>
+    <string name="err_msg_confirm_password">Please enter confirm password</string>
+    <string name="err_msg_password_and_confirm_password_missmatch">Password and confirm password does not match</string>
+    <string name="err_msg_agree_terms_and_condition">Please agree terms and condition</string>
+    <string name="register_successfull">Thanks for registering!</string>
+    <string name="register_successfull_2">You are registered successfully cok.</string>
+</resources>
